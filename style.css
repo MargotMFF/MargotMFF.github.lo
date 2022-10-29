@@ -1,0 +1,32 @@
+h1
+{
+  color: purple;
+}
+
+body
+{
+  background-color: pink;
+}
+
+#carte
+
+{
+  <div id="carte">   width: 800px;
+      margin: 0 auto;
+      background-color: white;
+      text-align:center;
+      align-content: center;
+}
+
+#carte
+{
+      width:  800px;
+      margin:0 auto;
+      background-color: white;
+      text-align: center;
+      align-content: center;
+}
+
+h2{
+  font-family: "Times New Roman", serif;
+}
